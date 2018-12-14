@@ -5,9 +5,6 @@ public class Runner {
 
 		Adventure adventure = new Adventure();
 
-		// System.out.println(adventure.startRowPos+","+adventure.startColPos);
-//		 adventure.showAllPos();
-
 		adventure.beginAdventure();
 
 	}
