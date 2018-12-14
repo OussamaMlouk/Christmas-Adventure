@@ -59,7 +59,7 @@ public class Adventure {
 		}
 	}
 
-	// change to private when done
+
 	public void showAllPos() {
 		map[startRowPos][startColPos] = 1;
 		map[treasureRowPos][treasureColPos] = 2;
